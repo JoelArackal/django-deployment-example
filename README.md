@@ -1,0 +1,3 @@
+# Django Web Application
+
+This is a web application built using django web framework...
